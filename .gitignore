@@ -1,4 +1,7 @@
 pigraph
 lib/
 *~
-src/*~
+*.o
+
+
+
